@@ -1,0 +1,4 @@
+#Thu Jun 27 10:22:46 IST 2019
+base.0=F\:\\Workshop ML\\DrumPad\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
