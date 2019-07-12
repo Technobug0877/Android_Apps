@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\6806ce92da83ece5fb38a4f395ed1add\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\b1ea10bef5f6b611fa5d02b95272aeb5\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\7101723f363e76e8b1bc3539902fc8bc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\eb6ecaff4b08de8ccbbd657740439941\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\7c5360053a794b860ec7697d6e27103d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\15bf53b6c814c2f35f45ec3d74f0275b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\9b92c093c9070bc84890abf9b247d0ef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\82aeb1e4d17bbfd1422a85c11e5379bc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\07f30ca9ffb58ba0b02584fe232154b5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\11111b785c74ccc29bcd83a2db126e79\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\ac878a77b4dc00f5bf879353a9e07924\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\ea1c1a68856fe75eac9ba395bb1cc22b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\077dd01e11a933c249c706e3c939dabb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\10bcda80f8bd9814d8e386f40e9f137d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\34ff8f6ebba68c851c6ec199e495c9e5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\43606da2dca64c5d894544e65a6eb423\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\762504db8b723b37149b964f4f8b23b0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\26354351f24e2f55f23b26e3e790367f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\a9c563cb4de803469915cf60c62ac035\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\5d07e04f292c145e459d5ebef66d62de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\ad24c0292d4846a9e277c64951ac04f6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\ae0e2f034193b27a534f04622e53a4d4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\df9aace47602e4dc98b6d4fccd966e09\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\374af83462bd295ce8489ee693713296\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\bea3b720111ac1a82075f1576480f035\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\bda398089659dd2a4c554254324b4514\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\d88154b17b32371c6de2db2667453cdc\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\b1ea10bef5f6b611fa5d02b95272aeb5\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\b1ea10bef5f6b611fa5d02b95272aeb5\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\43606da2dca64c5d894544e65a6eb423\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\43606da2dca64c5d894544e65a6eb423\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\762504db8b723b37149b964f4f8b23b0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\762504db8b723b37149b964f4f8b23b0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\43606da2dca64c5d894544e65a6eb423\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.drumpad.MainActivity
+ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:screenOrientation
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:13:13-50
+	android:name
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\6806ce92da83ece5fb38a4f395ed1add\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\6806ce92da83ece5fb38a4f395ed1add\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\b1ea10bef5f6b611fa5d02b95272aeb5\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\b1ea10bef5f6b611fa5d02b95272aeb5\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\7101723f363e76e8b1bc3539902fc8bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\7101723f363e76e8b1bc3539902fc8bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\eb6ecaff4b08de8ccbbd657740439941\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\eb6ecaff4b08de8ccbbd657740439941\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\7c5360053a794b860ec7697d6e27103d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\7c5360053a794b860ec7697d6e27103d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\15bf53b6c814c2f35f45ec3d74f0275b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\15bf53b6c814c2f35f45ec3d74f0275b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\9b92c093c9070bc84890abf9b247d0ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\9b92c093c9070bc84890abf9b247d0ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\82aeb1e4d17bbfd1422a85c11e5379bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\82aeb1e4d17bbfd1422a85c11e5379bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\07f30ca9ffb58ba0b02584fe232154b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\07f30ca9ffb58ba0b02584fe232154b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\11111b785c74ccc29bcd83a2db126e79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\11111b785c74ccc29bcd83a2db126e79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\ac878a77b4dc00f5bf879353a9e07924\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\ac878a77b4dc00f5bf879353a9e07924\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\ea1c1a68856fe75eac9ba395bb1cc22b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\ea1c1a68856fe75eac9ba395bb1cc22b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\077dd01e11a933c249c706e3c939dabb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\077dd01e11a933c249c706e3c939dabb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\10bcda80f8bd9814d8e386f40e9f137d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\10bcda80f8bd9814d8e386f40e9f137d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\34ff8f6ebba68c851c6ec199e495c9e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\34ff8f6ebba68c851c6ec199e495c9e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\43606da2dca64c5d894544e65a6eb423\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\43606da2dca64c5d894544e65a6eb423\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\762504db8b723b37149b964f4f8b23b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\762504db8b723b37149b964f4f8b23b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\26354351f24e2f55f23b26e3e790367f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\26354351f24e2f55f23b26e3e790367f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\a9c563cb4de803469915cf60c62ac035\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\a9c563cb4de803469915cf60c62ac035\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\5d07e04f292c145e459d5ebef66d62de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\5d07e04f292c145e459d5ebef66d62de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\ad24c0292d4846a9e277c64951ac04f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\ad24c0292d4846a9e277c64951ac04f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\ae0e2f034193b27a534f04622e53a4d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\ae0e2f034193b27a534f04622e53a4d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\df9aace47602e4dc98b6d4fccd966e09\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\df9aace47602e4dc98b6d4fccd966e09\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\374af83462bd295ce8489ee693713296\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\374af83462bd295ce8489ee693713296\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\bea3b720111ac1a82075f1576480f035\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\bea3b720111ac1a82075f1576480f035\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\bda398089659dd2a4c554254324b4514\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\bda398089659dd2a4c554254324b4514\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\d88154b17b32371c6de2db2667453cdc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\aggar\.gradle\caches\transforms-2\files-2.1\d88154b17b32371c6de2db2667453cdc\AndroidManifest.xml:20:5-44
+INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+		ADDED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Workshop ML\DrumPad\app\src\main\AndroidManifest.xml
