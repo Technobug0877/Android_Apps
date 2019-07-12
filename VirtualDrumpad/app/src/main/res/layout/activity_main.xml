@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:weightSum="4"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/One"
+                android:onClick="onClick"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:layout_margin="12dp"
+                android:background="@drawable/one"/>
+
+            <Button
+                android:id="@+id/Two"
+                android:onClick="onClick"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:layout_margin="12dp"
+                android:background="@drawable/two"/>
+
+            <Button
+                android:id="@+id/Three"
+                android:onClick="onClick"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:layout_margin="12dp"
+                android:background="@drawable/three"/>
+
+            <Button
+                android:id="@+id/Four"
+                android:onClick="onClick"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:layout_margin="12dp"
+                android:background="@drawable/four"/>
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:weightSum="4"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/Five"
+                android:layout_width="0dp"
+                android:onClick="onClick"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:layout_margin="12dp"
+                android:background="@drawable/five"/>
+
+            <Button
+                android:id="@+id/Six"
+                android:layout_width="0dp"
+                android:onClick="onClick"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/six"
+                android:layout_margin="12dp"/>
+
+            <Button
+                android:id="@+id/Seven"
+                android:layout_width="0dp"
+                android:onClick="onClick"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/one"
+                android:layout_margin="12dp"/>
+
+            <Button
+                android:id="@+id/Eight"
+                android:layout_width="0dp"
+                android:onClick="onClick"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/two"
+                android:layout_margin="12dp"/>
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
